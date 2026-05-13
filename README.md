@@ -53,7 +53,7 @@ pip install matplotlib notebook pandas
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/rimeeawasthi01/matplotlib-complete-tutorial.git
+git clone https://github.com/RimeeAwasthi01/matplotlib-complete-tutorial.git
 ```
 
 2. Navigate to the project folder:
